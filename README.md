@@ -3,6 +3,7 @@
 Function that return line from file descriptor.
 
 Prototype
+
 fd - file descriptor
 line - pointer where to save line
 ```
